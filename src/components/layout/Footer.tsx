@@ -116,7 +116,7 @@ export default function Footer() {
 
               <li>
                 <span className="text-background/40">
-                  globalimportsworldwide@gmail.com
+                  globalimportsworldwide<br></br>@gmail.com
                 </span>
               </li>
 
