@@ -64,7 +64,7 @@ export default function Footer() {
               <li><Link to="/privacy" className="hover:text-accent transition-colors">Privacy Policy</Link></li>
               <li><Link to="/terms" className="hover:text-accent transition-colors">Terms & Conditions</Link></li>
               <li><Link to="/contact" className="hover:text-accent transition-colors">Help Center</Link></li>
-              <li><span className="text-background/40">support@globalimports.com</span></li>
+              <li><span className="text-background/40">globalimportsworldwide@gmail.com</span></li>
               <li><span className="text-background/40">+91 import { Link } from "react-router-dom";
 import { categories } from "@/data/categories";
 
@@ -131,7 +131,7 @@ export default function Footer() {
               <li><Link to="/privacy" className="hover:text-accent transition-colors">Privacy Policy</Link></li>
               <li><Link to="/terms" className="hover:text-accent transition-colors">Terms & Conditions</Link></li>
               <li><Link to="/contact" className="hover:text-accent transition-colors">Help Center</Link></li>
-              <li><span className="text-background/40"></span></li>
+              <li><span className="text-background/40">globalimportsworldwide@gmail.com</span></li>
               <li><span className="text-background/40">+91 9270109911</span></li>
             </ul>
           </div>
